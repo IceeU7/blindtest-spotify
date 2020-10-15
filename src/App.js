@@ -37,6 +37,7 @@ const App = () => {
       </header>
       <div className="App-images">
         <h2>On écouter du son louuurd !</h2>
+        <h4>On commence ?</h4>
 
       </div>
       <div className="App-buttons">
